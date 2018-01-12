@@ -13,10 +13,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KamuiShiroPL/ZAD8.4/issues"
+    "url": "https://github.com/KamuiShiroPL/Zad8.6/issues"
   },
-  "homepage": "https://github.com/KamuiShiroPL/ZAD8.4#readme",
-  "devDependencies": {
-    "jshint": "^2.9.5"
-  }
+  "homepage": "https://github.com/KamuiShiroPL/Zad8.6#readme"
 }
