@@ -1,10 +1,20 @@
-// Traingle area
+var a=prompt("Number a", "What is your a?");
+var b=prompt("Number b", "What is your b?");
+var sum = (a * a) - (2 * a * b) + (b * b);
 
-var a=prompt("Base", "Base?");
-var h=prompt("Heigh", "height?");
-var triangleArea = (a * h)/2;
+if ( sum < 0 ) {
+    // Lower than 0
+     console.log('Result is lower than 0');
+}
 
-document.write("Area is ",  a * h / 2);
+if ( sum > 0 ) {
+    // Lower than 0
+     console.log('Result is higher than 0');
+}
 
-console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
+if ( sum = 0 ) {
+    // Lower than 0
+     console.log('Result is equal 0');
+}
 
+console.log('Result for a equal' + a + ' and b equal' + b + ' is' + sum);
