@@ -1,0 +1,22 @@
+{
+  "name": "zad8.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:js": "jshint js/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamuiShiroPL/ZAD8.4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KamuiShiroPL/ZAD8.4/issues"
+  },
+  "homepage": "https://github.com/KamuiShiroPL/ZAD8.4#readme",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
