@@ -12,7 +12,7 @@ if ( sum > 0 ) {
      console.log('Result is higher than 0');
 }
 
-if ( sum = 0 ) {
+if ( sum == 0 ) {
     // Lower than 0
      console.log('Result is equal 0');
 }

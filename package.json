@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KamuiShiroPL/ZAD8.4.git"
+    "url": "git+https://github.com/KamuiShiroPL/ZAD8.6.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KamuiShiroPL/Zad8.6/issues"
   },
-  "homepage": "https://github.com/KamuiShiroPL/Zad8.6#readme"
+  "homepage": "https://github.com/KamuiShiroPL/Zad8.6#readme",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
 }
